@@ -36,7 +36,7 @@ offline-support-chatbot/
 ---
 
 ##  Quick Start (5 Minutes)
-
+## watch the demo: https://drive.google.com/file/d/1EKaLvu8-yn9bxOccWz_unHvZ9jrAtmTV/view?usp=sharing
 ### Prerequisites
 - Python 3.8 or higher
 - 4GB RAM (8GB recommended)
